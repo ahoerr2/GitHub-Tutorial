@@ -2,6 +2,10 @@
 
 In this lab, we'll learn how to use [Git](https://git-scm.com/) and [GitHub](https://github.com/) through the IDE [GitHub Desktop](https://desktop.github.com/).
 
+If you are already familiar with Git and GitHub, you can work on the 
+
+[Lab 1 Exercise](#Lab-1-Exercise)
+
 ## What are Git and GitHub?
 
 **Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.**
